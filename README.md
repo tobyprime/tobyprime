@@ -1,4 +1,4 @@
-### Most familiar languages/frameworks：
+### Most Familiar Languages/Frameworks：
 
   [![C++](https://img.shields.io/badge/-C++-048?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://cplusplus.com/) 
   [![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
