@@ -19,3 +19,5 @@
 ### My Tools:
 [![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains-000000?logo=jetbrains&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
+[![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff&style=for-the-badge)](https://www.blender.org)
+[![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=fff&style=for-the-badge)](https://www.obsidian.md)
