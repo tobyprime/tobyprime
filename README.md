@@ -4,7 +4,8 @@
 [![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-C%23-1A9E1E?logo=csharp&logoColor=fff&style=for-the-badge)](https://dotnet.microsoft.com/zh-cn/languages/csharp)
 [![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)](https://pytorch.org/)
-[![Unity](https://img.shields.io/badge/-Unity-0F0F0F?logo=unity&logoColor=fff&style=for-the-badge)](https://unity.com)
+[![Unity](https://img.shields.io/badge/-Unity-0F0F0F?logo=unity&logoColor=fff&style=for-the-badge)](https://unity.com/)
+[![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge)](https://www.qt.io/)
 
 
 <div align="center">
