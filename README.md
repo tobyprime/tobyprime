@@ -1,4 +1,4 @@
-### Most Familiar Languages/Frameworks：
+### Most Familiar Languages/Frameworks:
 
   [![C++](https://img.shields.io/badge/-C++-048?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://cplusplus.com/) 
   [![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
@@ -7,7 +7,7 @@
   [![Unity](https://img.shields.io/badge/-Unity-0F0F0F?logo=unity&logoColor=fff&style=for-the-badge)](https://unity.com/)
   [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge)](https://www.qt.io/)
 
-### Github Status：
+### Github Status:
 
 <div align="center">
   
@@ -15,3 +15,7 @@
   | ------------- | ------------- |
   
 </div>
+
+### My Tools:
+[![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains-000000?logo=jetbrains&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/)
+[![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
